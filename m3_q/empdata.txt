@@ -1,0 +1,10 @@
+1,Lakshman,Mtech,80000,cse
+2,niranjan,btech,40000,ise
+3,joy,btech,45000,ece
+4,rashmi,mtech,70000,ae
+5,rakshitha,btech,38000,ece
+6,sneha,btech,35000,mech
+7,praneeth,btech,42000,ise
+8,prashil,mtech,37000,cse
+9,vikyath,phd,100000,ise
+10,rajani,btech,32000,cse
